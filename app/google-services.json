@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006329397453",
+    "project_id": "shoejima16",
+    "storage_bucket": "shoejima16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006329397453:android:1bb182bf560e746dcd2984",
+        "android_client_info": {
+          "package_name": "com.ndp.picodiploma.shoejima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006329397453-6u3bno35kh83qlaoc1m4k2364v61g3cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndp.picodiploma.shoejima",
+            "certificate_hash": "415296f86b4eb78984a69bdc5d58f5007caeb4a5"
+          }
+        },
+        {
+          "client_id": "1006329397453-37pp7gfmendffoe0gu3o2q3k3o47rc1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-EzElE6BxsDnJMouqsw9HWDEN5x2-rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006329397453-37pp7gfmendffoe0gu3o2q3k3o47rc1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
